@@ -1,0 +1,12 @@
+certifi==2022.12.7
+charset-normalizer==3.1.0
+et-xmlfile==1.1.0
+idna==3.4
+openpyxl==3.1.2
+packaging==23.1
+python-dotenv==1.0.0
+requests==2.28.2
+selenium==3.141.0
+tqdm==4.65.0
+urllib3==1.26.15
+webdriver-manager==3.8.6
